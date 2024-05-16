@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehiculeSimulator", "VehiculeSimulator\VehiculeSimulator.csproj", "{8377EF98-1D28-46CB-BEB9-871623D5F048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiculeTracing", "VehiculeTracing\VehiculeTracing.csproj", "{6CE709F6-19D7-4A9B-B9A3-024BD16DA107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8377EF98-1D28-46CB-BEB9-871623D5F048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8377EF98-1D28-46CB-BEB9-871623D5F048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8377EF98-1D28-46CB-BEB9-871623D5F048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8377EF98-1D28-46CB-BEB9-871623D5F048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE709F6-19D7-4A9B-B9A3-024BD16DA107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE709F6-19D7-4A9B-B9A3-024BD16DA107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE709F6-19D7-4A9B-B9A3-024BD16DA107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE709F6-19D7-4A9B-B9A3-024BD16DA107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB83CD1E-D5D7-4BBB-A687-D84BEE9C63F0}
+	EndGlobalSection
+EndGlobal
